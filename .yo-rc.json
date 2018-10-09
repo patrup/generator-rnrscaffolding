@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Patrick Rupprecht",
+      "authorEmail": "patrick.r@snafu.de",
+      "authorUrl": ""
+    }
+  }
+}
