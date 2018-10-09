@@ -77,7 +77,6 @@
   },
   "scripts": {
     "pretest": "eslint .",
-    "precommit": "lint-staged",
     "test": "jest"
   },
   "repository": {
