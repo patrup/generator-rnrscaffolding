@@ -1,0 +1,26 @@
+{
+  "name": "generator-rnrscaffolding",
+  "version": "1.0.0",
+  "description": "Scaffolding for React with Redux and Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrup/generator-rnrscaffolding.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "reactjs",
+    "redux",
+    "store",
+    "scaffolding"
+  ],
+  "author": "Patrick Rupprecht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrup/generator-rnrscaffolding/issues"
+  },
+  "homepage": "https://github.com/patrup/generator-rnrscaffolding#readme"
+}
